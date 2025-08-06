@@ -1,8 +1,8 @@
 # Automated ETH ⇄ cUSD Swapping Bot for MegaETH (GTE DEX)
 
-This Node.js bot automatically swaps between ETH and cUSD on GTE DEX (MegaETH). It uses randomized amounts, intervals, and transaction volumes to simulate realistic on-chain activity, making it ideal for testing, analytics, or stress simulations on the MegaETH network.
-
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/46e117c6-e8e4-4225-8ee6-937ea13728ec" />
+
+This Node.js bot automatically swaps between ETH and cUSD on GTE DEX (MegaETH). It uses randomized amounts, intervals, and transaction volumes to simulate realistic on-chain activity, making it ideal for testing, analytics, or stress simulations on the MegaETH network.
 
 ## Features:
 
