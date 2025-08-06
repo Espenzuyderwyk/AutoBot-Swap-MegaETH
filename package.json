@@ -1,0 +1,18 @@
+{
+  "name": "MegaETH GTE DEX",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Espenzuyderwyk",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0"
+  },
+  "description": "A daily swap MegaETH on GTE DEX"
+}
